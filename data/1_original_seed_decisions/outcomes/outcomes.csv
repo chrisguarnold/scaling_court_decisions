@@ -1,0 +1,38 @@
+court;reference;outcome;appeal ;topic;figure;advantage;advan
+LG Berlin ;27 O 120/15;2;0;Compensation ;3a;privat person ;1
+LG Köln ;28 O 195/12;3;0;Compensation ;3a;press;3
+LG Hamburg ;324 O 124/07;3;0;Compensation ;3a;press;3
+LG Köln ;28 O 466/14;1;0;Compensation ;3a;privat person ;1
+LG Köln ;28 O 263/09;2;0;Compensation ;3a;privat person ;1
+LG Berlin ;27 O 1063/06;3;0;Compensation ;3a;press;3
+LG Köln ;28 O 148/08;2;0;Compensation ;3a;privat person ;1
+LG Berlin;27 O 348/03;2;0;Compensation ;3a;neither;2
+LG Hamburg ;324 O 161/15;2;0;Compensation ;3a;privat person ;1
+LG Hamburg ;324 O 674/05;3;0;Compensation ;3a;press;3
+LG Hamburg ;324 O 852/08;3;0;Compensation ;3a;press;3
+LG Hamburg ;324 O 132/15;2;0;Compensation ;3a;privat person ;1
+LG Hamburg ;324 O 1172/07;1;0;Compensation ;3a;privat person ;1
+LG Köln ;28 O 33/12;2;0;Compensation ;3a;privat person ;1
+LG Berlin ;15 O 428/15;2;0;Injunction ;3b;privat person ;1
+OLG Hamburg ;7 U 51/10;3;1;Injunction ;3b;neither;2
+OLG Hamburg ;7 U 137/06;3;1;Injunction ;3b;press (no injunction);3
+LG Berlin ;27 S 2/07;3;1;Injunction ;3b;press (no injunction);3
+KG Berlin ;9 U 27/09;2;1;Injunction ;3b;privat  person (injunction);1
+KG Berlin ;9 W 119/08;1;0;Injunction ;3b;privat  person (injunction);1
+LG Berlin ;27 O 836/04;1;0;Injunction ;3b;privat  person (injunction);1
+LG Berlin ;27 O 585/04;1;0;Injunction ;3b;privat  person (injunction);1
+OLG Hamburg ;7 U 126/06;3;1;Injunction ;3b;press (no injunction);3
+LG Berlin;27 O 146/06;1;0;Injunction ;3b;privat  person (injunction);1
+LG Berlin ;27 O 45/05;1;0;Injunction ;3b;privat  person (injunction);1
+KG Berlin ;9 U 55/05;3;1;Injunction ;3b;press (no injunction);3
+OLG Hamburg ;7 U 89/10;3;1;Injunction ;3b;press (no injunction);3
+KG Berlin ;9 U 105/05;3;1;Injunction ;3b;press (no injunction);3
+LG Dortmund 25. Zivilkammer;25 O 5/11;3;0;Antitrust;7;cartel;3
+LG Dortmund 8. Zivilkammer;8 O 90/14 (Kart);1;0;Antitrust;7;against cartel;1
+LG Dortmund 8. Zivilkammer;8 O 93/14 Kart;1;0;Antitrust;7;against cartel;1
+LG Dortmund 8. Zivilkammer;8 O 89/14 (Kart);1;0;Antitrust;7;against cartel;1
+LG Dortmund 8. Zivilkammer;8 O 24/16 (Kart);1;0;Antitrust;7;against cartel;1
+LG Köln 10. Kammer für Handelssachen;90 O 1/11;3;0;Antitrust;7;cartel;3
+LG Köln 10. Kammer für Handelssachen;90 O 57/12;3;0;Antitrust;7;cartel;3
+LG Köln 8. Kammer für Handelssachen;88 O 1/11;2;0;Antitrust;7;against cartel;1
+LG Köln 8. Kammer für Handelssachen;88 O 5/11;2;0;Antitrust;7;against cartel;1
